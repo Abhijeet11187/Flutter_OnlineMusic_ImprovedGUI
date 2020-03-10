@@ -11,4 +11,4 @@ GUI is improved using SliverApp bar , Sliver List
 
 ## Output Screens
 
-<img src='/music_online/OutputScreens/MusicPlayer%20output%201.jpg' height=100 width=100>
+<img src='/music_online/OutputScreens/MusicPlayer%20output%201.jpg' height=400 width=250>
