@@ -1,16 +1,14 @@
-# music_online
+# Online Music Streaming
 
-A new Flutter application.
+GUI is improved using SliverApp bar , Sliver List
 
-## Getting Started
+## Dependencies are
+###   audioplayers:
+###  firebase_storage: ^3.0.8
+###  dio: ^3.0.9
+###  path_provider: ^1.6.5
+###  flutter_launcher_icons: "^0.6.1"
 
-This project is a starting point for a Flutter application.
+## Output Screens
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](/music_online/OutputScreens/MusicPlayer%20output%201.jpg)
